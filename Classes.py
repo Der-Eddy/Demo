@@ -5,3 +5,6 @@ class Guy(object):
 
 	def sayHello(self):
 		print("Hello " + self.name)
+		
+	def eddy(self):
+		print("Ist um einiges cooler als Github")
